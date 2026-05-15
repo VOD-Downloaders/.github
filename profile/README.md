@@ -1,4 +1,4 @@
-# VOD Downloader
+# VOD Downloaders
 
 Welcome to my central hub for VOD downloading related projects. I support downloading off of Dispatcharr & more...  
 All of these projects are largely written in Rust :crab:.
