@@ -1,7 +1,7 @@
 # VOD Downloaders
 
-Welcome to my central hub for VOD downloading related projects. I support downloading off of Dispatcharr & more...  
-All of these projects are largely written in Rust :crab:.
+Welcome to my central hub for VOD downloading related projects. The projects listed below support downloading off of various places like [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) and [freemediaheckyeah](https://fmhy.net/video) sites.  
+These projects are largely written in Rust :crab: as an attempt for [me](https://github.com/ggjorven) to learn more about the language.  
 
 ## Projects
 
