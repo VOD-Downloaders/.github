@@ -21,6 +21,12 @@ The core functionality is created in these "core" projects which are then used i
 - [Dispatcharr-core](https://github.com/VOD-Downloaders/Dispatcharr-core) - Core functions for downloading off of [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) sites. [![Development state](https://img.shields.io/badge/state-alpha-yellow
 )](https://github.com/VOD-Downloaders/Dispatcharr-core)
 
+## Supporting 
+
+Supporting projects which have been created to help the goal of easy VOD downloading.
+
+- [TMDB-Proxy](https://github.com/VOD-Downloaders/TMDB-Proxy) - Easily deployable proxy of the TMDB API for Vercel. [![Development state](https://img.shields.io/badge/state-beta-mediumseagreen)](https://github.com/VOD-Downloaders/TMDB-Proxy)
+
 ## Sources
 
 - [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - **Dispatcharr**, Self-hosted IPTV proxy.
